@@ -12,6 +12,7 @@ public class prueba {
 		//me cago en 10 :)
 		// yo tambien
 		//pachobus
+		//gay usted
 
 	}
 
