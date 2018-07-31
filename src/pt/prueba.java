@@ -7,21 +7,7 @@ public class prueba {
 //hola
 		//holaaaaaa
 		
-		// ya
-		//ok
-		//me cago en 10 :)
-		// yo tambien
 
-		//pachobus
-		//gay usted
-		//gay x2
-		//asdasd
-		//sasdasd
-
-		//perro
-		
-		//mireme este
-	 //Mireme este otra vez
 
 	}
 	
